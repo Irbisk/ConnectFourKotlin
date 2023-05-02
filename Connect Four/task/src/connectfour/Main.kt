@@ -18,6 +18,7 @@ fun startGame() {
     setBoardSize()
     println("$firstPlayer VS $secondPlayer")
     println("${board.size} X ${board[0].size} board")
+    printBoard()
 }
 
 fun setBoardSize() {
@@ -42,4 +43,28 @@ fun setBoardSize() {
             }
         } else println("Invalid input")
     }
+}
+
+fun printBoard() {
+    val vert = "║"
+    val hor = "═"
+    val tripple = "╩"
+    val leftAngle = "╚"
+    val rightAngle = "╝"
+
+    for (i in 1..board[0].size) print(" $i")
+    println()
+    for (i in 0..board.lastIndex) {
+        for (j in 0..board[0].lastIndex) {
+            print("$vert ")
+        }
+        println(vert)
+    }
+
+    for (i in 0..board[0].lastIndex) {
+        if (i == 0) {
+            print(leftAngle + hor)
+        } else print(tripple + hor)
+    }
+    println(rightAngle)
 }
