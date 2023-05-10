@@ -6,6 +6,32 @@
       <module name="Connect_Four.Connect_Four-task-build-reports-tests.main" target="11" />
       <module name="Connect_Four.Connect_Four-task-build-test-results.main" target="11" />
       <module name="Connect_Four.Connect_Four-task-build-tmp.main" target="11" />
+      <module name="ConnectFourKotlin.Connect_Four-task.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-List-Concise.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-List-Indexes.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-List-It's_all_about_the_List.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-List-Number_of_occurrences.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-List-Sum_of_numbers.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-List-The_second_of_T.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-List-Theory.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Mutable_List-Add_them_all.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Mutable_List-Adding.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Mutable_List-Banana.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Mutable_List-Mutable_List.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Mutable_List-MutableList_properties.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Mutable_List-New_List.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Mutable_List-Remove_us.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Mutable_List-Theory.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Mutable_List-You_don't_need_them.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Regexps-Matching_pattern.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Regexps-Theory.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Regexps__1_-Matching_pattern.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Regexps__1_-Theory.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Regexps__2_-Can_you.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Regexps__2_-Different_colo_u_rs.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Regexps__2_-Matching_pattern.main" target="11" />
+      <module name="ConnectFourKotlin.Topics-Regexps__2_-Theory.main" target="11" />
+      <module name="ConnectFourKotlin.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
